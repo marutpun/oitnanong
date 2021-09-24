@@ -1,0 +1,27 @@
+{
+  "unversionedId": "OITNo9/sub2",
+  "id": "OITNo9/sub2",
+  "isDocsHomePage": false,
+  "title": "การบริหารงาน",
+  "description": "ตัวชี้วัดย่อยที่ 2 การบริหารงาน ได้แก่ การดำเนินงาน การปฏิบัติงาน และการให้บริการ",
+  "source": "@site/docs/OITNo9/sub2.md",
+  "sourceDirName": "OITNo9",
+  "slug": "/OITNo9/sub2",
+  "permalink": "/docs/OITNo9/sub2",
+  "editUrl": "https://github.com/marutpun/oitnanong/edit/main/website/docs/OITNo9/sub2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ข้อมูลพื้นฐาน",
+    "permalink": "/docs/OITNo9/sub1"
+  },
+  "next": {
+    "title": "การบริหารเงินงบประมาณ",
+    "permalink": "/docs/OITNo9/sub3"
+  }
+}

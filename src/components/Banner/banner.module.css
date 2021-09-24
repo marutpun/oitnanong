@@ -1,0 +1,43 @@
+.banner {
+  position: relative;
+  min-height: 300px;
+  margin-bottom: 0;
+  display: flex;
+  align-items: center;
+}
+
+.banner__img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.banner__imgFilter {
+  filter: brightness(60%);
+}
+
+.banner__meta {
+  position: relative;
+  letter-spacing: 0.2rem;
+  line-height: 1.5;
+  width: 100%;
+}
+
+.banner__title,
+.banner__description {
+  color: var(--nns-banner-color);
+  text-align: center;
+}
+
+.banner__title {
+  margin-bottom: var(--nns-banner-heading-mb);
+  font-size: var(--nns-banner-title-fz);
+}
+
+.banner__description {
+  margin-bottom: var(--nns-banner-subtitle-mb);
+  font-size: var(--nns-banner-desc-fz);
+}

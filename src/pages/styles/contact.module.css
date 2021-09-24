@@ -1,0 +1,29 @@
+.contact {
+  margin: var(--nns-contact-container-m);
+}
+
+.contact__container:first-child {
+  margin-bottom: var(--nns-contact-body-container);
+}
+
+.contact__container:last-child {
+  margin-top: var(--nns-contact-body-container);
+}
+
+.contact__title {
+  margin-bottom: var(--nns-contact-title-mb);
+  font-size: var(--nns-contact-title-fz);
+}
+
+.contact__social {
+  width: var(--nns-contact-social-size);
+  height: var(--nns-contact-social-size);
+}
+
+.contact__social {
+  margin-right: var(--nns-contact-social-mr);
+}
+
+.contact p {
+  font-size: var(--nns-contact-body-fz);
+}

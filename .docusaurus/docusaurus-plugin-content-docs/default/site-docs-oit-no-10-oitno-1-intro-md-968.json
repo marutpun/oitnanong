@@ -1,0 +1,20 @@
+{
+  "unversionedId": "OITNo10/oitno1intro",
+  "id": "OITNo10/oitno1intro",
+  "isDocsHomePage": false,
+  "title": "การป้องกันการทุจริต",
+  "description": "ตัวชี้วัดย่อยที่ 1 การดำเนินการเพื่อป้องกันการทุจริต ได้แก่ เจตจำนงสุจริตของผู้บริหาร การประเมินความเสี่ยงเพื่อการป้องกันการทุจริต การเสริมสร้างวัฒนธรรมองค์กร และแผนปฏิบัติการป้องกันการทุจริต",
+  "source": "@site/docs/OITNo10/oitno1intro.md",
+  "sourceDirName": "OITNo10",
+  "slug": "/OITNo10/oitno1intro",
+  "permalink": "/docs/OITNo10/oitno1intro",
+  "editUrl": "https://github.com/marutpun/oitwatnanong/edit/main/website/docs/OITNo10/oitno1intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "การส่งเสริมความโปร่งใส",
+    "permalink": "/docs/OITNo9/sub5"
+  }
+}

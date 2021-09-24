@@ -1,0 +1,24 @@
+{
+  "unversionedId": "oitno9 copy/oitno1intro",
+  "id": "oitno9 copy/oitno1intro",
+  "isDocsHomePage": false,
+  "title": "ตัวชี้วัดย่อยที่ 9",
+  "description": "ข้อมูลพื้นฐาน",
+  "source": "@site/docs/oitno9 copy/oitno1intro.md",
+  "sourceDirName": "oitno9 copy",
+  "slug": "/oitno9 copy/oitno1intro",
+  "permalink": "/docs/oitno9 copy/oitno1intro",
+  "editUrl": "https://github.com/marutpun/oitwatnanong/edit/main/website/docs/oitno9 copy/oitno1intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OIT โรงเรียนวัดนาหนอง",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "ตัวชี้วัดย่อยที่ 9",
+    "permalink": "/docs/oitno9/oitno1intro"
+  }
+}

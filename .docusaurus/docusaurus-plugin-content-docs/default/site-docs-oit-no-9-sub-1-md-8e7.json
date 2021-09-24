@@ -1,0 +1,27 @@
+{
+  "unversionedId": "OITNo9/sub1",
+  "id": "OITNo9/sub1",
+  "isDocsHomePage": false,
+  "title": "ข้อมูลพื้นฐาน",
+  "description": "ตัวชี้วัดย่อยที่ 1 ข้อมูลพื้นฐาน ได้แก่ ข้อมูลพื้นฐาน การประชาสัมพันธ์ และการปฏิสัมพันธ์ข้อมูล",
+  "source": "@site/docs/OITNo9/sub1.md",
+  "sourceDirName": "OITNo9",
+  "slug": "/OITNo9/sub1",
+  "permalink": "/docs/OITNo9/sub1",
+  "editUrl": "https://github.com/marutpun/oitnanong/edit/main/website/docs/OITNo9/sub1.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OIT โรงเรียนวัดนาหนอง",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "การบริหารงาน",
+    "permalink": "/docs/OITNo9/sub2"
+  }
+}

@@ -1,0 +1,18 @@
+export default {
+  '0e384e19': [() => import(/* webpackChunkName: '0e384e19' */ "@site/docs/intro.md"), "@site/docs/intro.md", require.resolveWeak("@site/docs/intro.md")],
+  '17896441': [() => import(/* webpackChunkName: '17896441' */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
+  '1be78505': [() => import(/* webpackChunkName: '1be78505' */ "@theme/DocPage"), "@theme/DocPage", require.resolveWeak("@theme/DocPage")],
+  '3720c009': [() => import(/* webpackChunkName: '3720c009' */ "@theme/DocTagsListPage"), "@theme/DocTagsListPage", require.resolveWeak("@theme/DocTagsListPage")],
+  '3b940e32': [() => import(/* webpackChunkName: '3b940e32' */ "@site/docs/OITNo9/sub2.md"), "@site/docs/OITNo9/sub2.md", require.resolveWeak("@site/docs/OITNo9/sub2.md")],
+  '517e3784': [() => import(/* webpackChunkName: '517e3784' */ "@site/docs/OITNo9/sub4.md"), "@site/docs/OITNo9/sub4.md", require.resolveWeak("@site/docs/OITNo9/sub4.md")],
+  '55960ee5': [() => import(/* webpackChunkName: '55960ee5' */ "~docs/default/tags-list-current-prop-15a.json"), "~docs/default/tags-list-current-prop-15a.json", require.resolveWeak("~docs/default/tags-list-current-prop-15a.json")],
+  '5e9f5e1a': [() => import(/* webpackChunkName: '5e9f5e1a' */ "@generated/docusaurus.config"), "@generated/docusaurus.config", require.resolveWeak("@generated/docusaurus.config")],
+  '83e9e333': [() => import(/* webpackChunkName: '83e9e333' */ "@site/src/pages/contact.js"), "@site/src/pages/contact.js", require.resolveWeak("@site/src/pages/contact.js")],
+  '8e56087c': [() => import(/* webpackChunkName: '8e56087c' */ "@site/src/pages/people.js"), "@site/src/pages/people.js", require.resolveWeak("@site/src/pages/people.js")],
+  '8e7a69e6': [() => import(/* webpackChunkName: '8e7a69e6' */ "@site/docs/OITNo9/sub1.md"), "@site/docs/OITNo9/sub1.md", require.resolveWeak("@site/docs/OITNo9/sub1.md")],
+  '918864ff': [() => import(/* webpackChunkName: '918864ff' */ "@site/docs/OITNo9/sub5.md"), "@site/docs/OITNo9/sub5.md", require.resolveWeak("@site/docs/OITNo9/sub5.md")],
+  '935f2afb': [() => import(/* webpackChunkName: '935f2afb' */ "~docs/default/version-current-metadata-prop-751.json"), "~docs/default/version-current-metadata-prop-751.json", require.resolveWeak("~docs/default/version-current-metadata-prop-751.json")],
+  'a7c5be99': [() => import(/* webpackChunkName: 'a7c5be99' */ "@site/docs/OITNo10/sub1.md"), "@site/docs/OITNo10/sub1.md", require.resolveWeak("@site/docs/OITNo10/sub1.md")],
+  'c4f5d8e4': [() => import(/* webpackChunkName: 'c4f5d8e4' */ "@site/src/pages/index.js"), "@site/src/pages/index.js", require.resolveWeak("@site/src/pages/index.js")],
+  'c8616e7a': [() => import(/* webpackChunkName: 'c8616e7a' */ "@site/docs/OITNo10/sub2.md"), "@site/docs/OITNo10/sub2.md", require.resolveWeak("@site/docs/OITNo10/sub2.md")],
+  'ede3f5f4': [() => import(/* webpackChunkName: 'ede3f5f4' */ "@site/docs/OITNo9/sub3.md"), "@site/docs/OITNo9/sub3.md", require.resolveWeak("@site/docs/OITNo9/sub3.md")],};

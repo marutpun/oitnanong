@@ -1,0 +1,314 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionEditUrl": "https://github.com/marutpun/oitnanong/edit/main/website/docs",
+          "versionEditUrlLocalized": "https://github.com/marutpun/oitnanong/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\marut.punsakorn\\Desktop\\oitnanong\\sidebars.js",
+          "contentPath": "C:\\Users\\marut.punsakorn\\Desktop\\oitnanong\\docs",
+          "contentPathLocalized": "C:\\Users\\marut.punsakorn\\Desktop\\oitnanong\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "intro",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro",
+                "label": "OIT โรงเรียนวัดนาหนอง"
+              },
+              {
+                "type": "category",
+                "label": "ตัวชี้วัดย่อยที่ 9",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "OITNo9/sub1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "OITNo9/sub2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "OITNo9/sub3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "OITNo9/sub4"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "OITNo9/sub5"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "ตัวชี้วัดย่อยที่ 10",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "OITNo10/sub1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "OITNo10/sub2"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          },
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Open Data Integrity and Transparency Assessment (OIT)",
+              "description": "แบบตรวจการเปิดเผยข้อมูลสาธารณะ Open Data Integrity and Transparency Assessment: OIT เป็นการเปิดเผยข้อมูลของสถานศึกษาต่อสาธารณผ่านทางเว็บไซต์ของสถานศึกษา เพื่อให้ประชาชนสามารถเข้าถึงข้อมูลข่าวสาร และแสดงให้เห็นถึงความโปร่งใสในการดำเนินงานของสถานศึกษา ในประเด็นของการเปิดเผยข้อมูล และการป้องกันการทุจริต",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "editUrl": "https://github.com/marutpun/oitnanong/edit/main/website/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "OIT โรงเรียนวัดนาหนอง"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "ข้อมูลพื้นฐาน",
+                "permalink": "/docs/OITNo9/sub1"
+              }
+            },
+            {
+              "unversionedId": "OITNo10/sub1",
+              "id": "OITNo10/sub1",
+              "isDocsHomePage": false,
+              "title": "การป้องกันการทุจริต",
+              "description": "ตัวชี้วัดย่อยที่ 1 การดำเนินการเพื่อป้องกันการทุจริต ได้แก่ เจตจำนงสุจริตของผู้บริหาร การประเมินความเสี่ยงเพื่อการป้องกันการทุจริต การเสริมสร้างวัฒนธรรมองค์กร และแผนปฏิบัติการป้องกันการทุจริต",
+              "source": "@site/docs/OITNo10/sub1.md",
+              "sourceDirName": "OITNo10",
+              "slug": "/OITNo10/sub1",
+              "permalink": "/docs/OITNo10/sub1",
+              "editUrl": "https://github.com/marutpun/oitnanong/edit/main/website/docs/OITNo10/sub1.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "การส่งเสริมความโปร่งใส",
+                "permalink": "/docs/OITNo9/sub5"
+              },
+              "next": {
+                "title": "มาตรการภายในเพื่อป้องกันการทุจริต",
+                "permalink": "/docs/OITNo10/sub2"
+              }
+            },
+            {
+              "unversionedId": "OITNo10/sub2",
+              "id": "OITNo10/sub2",
+              "isDocsHomePage": false,
+              "title": "มาตรการภายในเพื่อป้องกันการทุจริต",
+              "description": "ตัวชี้วัดย่อยที่ 2 มาตรการภายในเพื่อป้องกันการทุจริต ได้แก่ มาตรการภายในเพื่อส่งเสริมความโปร่งใสและป้องกันการทุจริตภายในสถานศึกษา",
+              "source": "@site/docs/OITNo10/sub2.md",
+              "sourceDirName": "OITNo10",
+              "slug": "/OITNo10/sub2",
+              "permalink": "/docs/OITNo10/sub2",
+              "editUrl": "https://github.com/marutpun/oitnanong/edit/main/website/docs/OITNo10/sub2.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "การป้องกันการทุจริต",
+                "permalink": "/docs/OITNo10/sub1"
+              }
+            },
+            {
+              "unversionedId": "OITNo9/sub1",
+              "id": "OITNo9/sub1",
+              "isDocsHomePage": false,
+              "title": "ข้อมูลพื้นฐาน",
+              "description": "ตัวชี้วัดย่อยที่ 1 ข้อมูลพื้นฐาน ได้แก่ ข้อมูลพื้นฐาน การประชาสัมพันธ์ และการปฏิสัมพันธ์ข้อมูล",
+              "source": "@site/docs/OITNo9/sub1.md",
+              "sourceDirName": "OITNo9",
+              "slug": "/OITNo9/sub1",
+              "permalink": "/docs/OITNo9/sub1",
+              "editUrl": "https://github.com/marutpun/oitnanong/edit/main/website/docs/OITNo9/sub1.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "OIT โรงเรียนวัดนาหนอง",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "การบริหารงาน",
+                "permalink": "/docs/OITNo9/sub2"
+              }
+            },
+            {
+              "unversionedId": "OITNo9/sub2",
+              "id": "OITNo9/sub2",
+              "isDocsHomePage": false,
+              "title": "การบริหารงาน",
+              "description": "ตัวชี้วัดย่อยที่ 2 การบริหารงาน ได้แก่ การดำเนินงาน การปฏิบัติงาน และการให้บริการ",
+              "source": "@site/docs/OITNo9/sub2.md",
+              "sourceDirName": "OITNo9",
+              "slug": "/OITNo9/sub2",
+              "permalink": "/docs/OITNo9/sub2",
+              "editUrl": "https://github.com/marutpun/oitnanong/edit/main/website/docs/OITNo9/sub2.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ข้อมูลพื้นฐาน",
+                "permalink": "/docs/OITNo9/sub1"
+              },
+              "next": {
+                "title": "การบริหารเงินงบประมาณ",
+                "permalink": "/docs/OITNo9/sub3"
+              }
+            },
+            {
+              "unversionedId": "OITNo9/sub3",
+              "id": "OITNo9/sub3",
+              "isDocsHomePage": false,
+              "title": "การบริหารเงินงบประมาณ",
+              "description": "ตัวชี้วัดย่อยที่ 3 การบริหารเงินงบประมาณ ได้แก่ แผนการใช้จ่ายงบประมาณประจำปี และการจัดซื้อจัดจ้างหรือการจัดหาพัสดุ",
+              "source": "@site/docs/OITNo9/sub3.md",
+              "sourceDirName": "OITNo9",
+              "slug": "/OITNo9/sub3",
+              "permalink": "/docs/OITNo9/sub3",
+              "editUrl": "https://github.com/marutpun/oitnanong/edit/main/website/docs/OITNo9/sub3.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "การบริหารงาน",
+                "permalink": "/docs/OITNo9/sub2"
+              },
+              "next": {
+                "title": "การบริหารและพัฒนาทรัพยากรบุคคล",
+                "permalink": "/docs/OITNo9/sub4"
+              }
+            },
+            {
+              "unversionedId": "OITNo9/sub4",
+              "id": "OITNo9/sub4",
+              "isDocsHomePage": false,
+              "title": "การบริหารและพัฒนาทรัพยากรบุคคล",
+              "description": "ตัวชี้วัดย่อยที่ 4 การบริหารและพัฒนาทรัพยากรบุคคล ได้แก่ การบริหารและพัฒนาทรัพยากรบุคคล",
+              "source": "@site/docs/OITNo9/sub4.md",
+              "sourceDirName": "OITNo9",
+              "slug": "/OITNo9/sub4",
+              "permalink": "/docs/OITNo9/sub4",
+              "editUrl": "https://github.com/marutpun/oitnanong/edit/main/website/docs/OITNo9/sub4.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "การบริหารเงินงบประมาณ",
+                "permalink": "/docs/OITNo9/sub3"
+              },
+              "next": {
+                "title": "การส่งเสริมความโปร่งใส",
+                "permalink": "/docs/OITNo9/sub5"
+              }
+            },
+            {
+              "unversionedId": "OITNo9/sub5",
+              "id": "OITNo9/sub5",
+              "isDocsHomePage": false,
+              "title": "การส่งเสริมความโปร่งใส",
+              "description": "ตัวชี้วัดย่อยที่ 5 การส่งเสริมความโปร่งใส ได้แก่ การจัดการเรื่องร้องเรียนการทุจริตและประพฤติมิชอบ และการเปิดโอกาสให้เกิดการมีส่วนร่วม",
+              "source": "@site/docs/OITNo9/sub5.md",
+              "sourceDirName": "OITNo9",
+              "slug": "/OITNo9/sub5",
+              "permalink": "/docs/OITNo9/sub5",
+              "editUrl": "https://github.com/marutpun/oitnanong/edit/main/website/docs/OITNo9/sub5.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "การบริหารและพัฒนาทรัพยากรบุคคล",
+                "permalink": "/docs/OITNo9/sub4"
+              },
+              "next": {
+                "title": "การป้องกันการทุจริต",
+                "permalink": "/docs/OITNo10/sub1"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/contact",
+        "source": "@site/src/pages/contact.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/people",
+        "source": "@site/src/pages/people.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

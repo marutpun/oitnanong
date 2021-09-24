@@ -1,0 +1,23 @@
+{
+  "unversionedId": "OITNo10/sub2",
+  "id": "OITNo10/sub2",
+  "isDocsHomePage": false,
+  "title": "มาตรการภายในเพื่อป้องกันการทุจริต",
+  "description": "ตัวชี้วัดย่อยที่ 2 มาตรการภายในเพื่อป้องกันการทุจริต ได้แก่ มาตรการภายในเพื่อส่งเสริมความโปร่งใสและป้องกันการทุจริตภายในสถานศึกษา",
+  "source": "@site/docs/OITNo10/sub2.md",
+  "sourceDirName": "OITNo10",
+  "slug": "/OITNo10/sub2",
+  "permalink": "/docs/OITNo10/sub2",
+  "editUrl": "https://github.com/marutpun/oitnanong/edit/main/website/docs/OITNo10/sub2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "การป้องกันการทุจริต",
+    "permalink": "/docs/OITNo10/sub1"
+  }
+}

@@ -1,0 +1,144 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #8dc125;
+  --ifm-color-primary-dark: #7fae21;
+  --ifm-color-primary-darker: #78a41f;
+  --ifm-color-primary-darkest: #63871a;
+  --ifm-color-primary-light: #9bd429;
+  --ifm-color-primary-lighter: #a0d831;
+  --ifm-color-primary-lightest: #addd4e;
+  --ifm-code-font-size: 95%;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/**
+* Wat Na Nong School Theme.
+*/
+
+:root {
+  --nns-dark: hsl(0, 0%, 20%);
+
+  --nns-spacing-0: 0;
+  --nns-spacing-1: 0.3125rem;
+  --nns-spacing-2: 0.625rem;
+  --nns-spacing-3: 0.9375rem;
+  --nns-spacing-4: 0.9375rem;
+  --nns-spacing-5: 0.9375rem;
+  --nns-spacing-6: 1.25rem;
+  --nns-spacing-7: 1.5625rem;
+  --nns-spacing-8: 1.875rem;
+  --nns-spacing-9: 2.5rem;
+
+  --nns-heading-xl: 2rem;
+  --nns-heading-l: 1.5rem;
+  --nns-heading-m: 1.125rem;
+  --nns-body: 1rem;
+  --nns-body-s: 0.875rem;
+
+  --nns-fz-80: 3.3125rem;
+  --nns-fz-48: 2rem;
+  --nns-fz-36: 1.5rem;
+  --nns-fz-27: 1.125rem;
+  --nns-fz-24: 1.125rem;
+  --nns-fz-19: 1rem;
+  --nns-fz-16: 0.875rem;
+  --nns-fz-14: 0.75rem;
+
+  /* Homepage */
+  --nns-home-banner-p: var(--nns-spacing-9) var(--nns-spacing-0);
+  --nns-home-title-fz: var(--nns-heading-xl);
+  --nns-home-title-mb: var(--nns-spacing-8);
+  --nns-home-subtitle-fz: var(--nns-heading-m);
+  --nns-home-subtitle-mb: var(--nns-spacing-0);
+  --nns-hero-background-color: var(--ifm-color-primary-darkest);
+  --nns-hero-background: linear-gradient(
+    135deg,
+    var(--ifm-color-primary-darkest) 0%,
+    var(--ifm-color-primary-lightest) 100%
+  );
+
+  /* Contact*/
+  --nns-contact-container-m: var(--nns-spacing-3) var(--nns-spacing-0);
+  --nns-contact-body-container: var(--nns-spacing-6);
+  --nns-contact-title-mb: var(--nns-spacing-3);
+  --nns-contact-title-fz: var(--nns-heading-xl);
+  --nns-contact-social-size: 48px;
+  --nns-contact-body-fz: var(--nns-body);
+  --nns-contact-social-mr: var(--nns-spacing-2);
+  /* People */
+  --nns-people-container-m: var(--nns-spacing-3) var(--nns-spacing-0);
+  --nns-people-title-fz: var(--nns-heading-xl);
+  --nns-people-title-mb: var(--nns-spacing-3);
+  --nns-people-caption-b: var(--nns-spacing-0);
+  --nns-people-caption-fz: var(--nns-body);
+  --nns-people-name-fz: var(--nns-heading-m);
+  --nns-people-description-fz: var(--nns-body);
+
+  /* Features */
+  --nns-features-body: var(--nns-body);
+  --nns-features-title-fz: var(--nns-heading-l);
+
+  /* Banner */
+  --nns-banner-color: var(--ifm-color-white);
+  --nns-banner-title-fz: var(--nns-heading-l);
+  --nns-banner-desc-fz: var(--nns-body);
+  --nns-banner-heading-mb: var(--nns-spacing-6);
+  --nns-banner-subtitle-mb: var(--nns-spacing-0);
+
+  /* Footer */
+
+  --nns-footer-bg: var(--nns-dark);
+  --nns-footer-p: var(--nns-spacing-6) var(--nns-spacing-0);
+  --nns-footer-c: var(--ifm-color-white);
+  --nns-footer-title: var(--nns-heading-l);
+  --nns-footer-heading-mb: var(--nns-spacing-4);
+  --nns-footer-colophon-fz: var(--nns-body-s);
+}
+
+@media print, screen and (min-width: 64em) {
+  :root {
+    --nns-spacing-0: 0;
+    --nns-spacing-1: 0.3125rem;
+    --nns-spacing-2: 0.625rem;
+    --nns-spacing-3: 0.9375rem;
+    --nns-spacing-4: 1.25rem;
+    --nns-spacing-5: 1.5625rem;
+    --nns-spacing-6: 1.875rem;
+    --nns-spacing-7: 2.5rem;
+    --nns-spacing-8: 3.125rem;
+    --nns-spacing-9: 3.75rem;
+
+    --nns-heading-xl: 3rem;
+    --nns-heading-l: 2.25rem;
+    --nns-heading-m: 1.5rem;
+    --nns-body: 1.1875rem;
+    --nns-body-s: 1rem;
+
+    --nns-fz-80: 5rem;
+    --nns-fz-48: 3rem;
+    --nns-fz-36: 2.25rem;
+    --nns-fz-27: 1.6875rem;
+    --nns-fz-24: 1.5rem;
+    --nns-fz-19: 1.1875rem;
+    --nns-fz-16: 1rem;
+    --nns-fz-14: 0.875rem;
+  }
+}
+
+/* Custom */

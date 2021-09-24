@@ -1,0 +1,24 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "isDocsHomePage": false,
+  "title": "Open Data Integrity and Transparency Assessment (OIT)",
+  "description": "แบบตรวจการเปิดเผยข้อมูลสาธารณะ Open Data Integrity and Transparency Assessment: OIT เป็นการเปิดเผยข้อมูลของสถานศึกษาต่อสาธารณผ่านทางเว็บไซต์ของสถานศึกษา เพื่อให้ประชาชนสามารถเข้าถึงข้อมูลข่าวสาร และแสดงให้เห็นถึงความโปร่งใสในการดำเนินงานของสถานศึกษา ในประเด็นของการเปิดเผยข้อมูล และการป้องกันการทุจริต",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "editUrl": "https://github.com/marutpun/oitnanong/edit/main/website/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "OIT โรงเรียนวัดนาหนอง"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "ข้อมูลพื้นฐาน",
+    "permalink": "/docs/OITNo9/sub1"
+  }
+}

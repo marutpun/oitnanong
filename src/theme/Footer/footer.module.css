@@ -1,0 +1,23 @@
+.footer {
+  padding: var(--nns-footer-p);
+  background-color: var(--nns-footer-bg);
+  color: var(--nns-footer-c);
+}
+
+.footer__title {
+  margin-bottom: var(--nns-footer-heading-mb);
+  font-size: var(--nns-footer-title);
+}
+
+.footer__copyright,
+.footer__address {
+  font-size: var(--nns-footer-colophon-fz);
+}
+
+.footer__address {
+  font-style: normal;
+}
+
+.footer__copyright {
+  margin: 0;
+}

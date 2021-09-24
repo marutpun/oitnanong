@@ -1,0 +1,27 @@
+{
+  "unversionedId": "OITNo9/sub4",
+  "id": "OITNo9/sub4",
+  "isDocsHomePage": false,
+  "title": "การบริหารและพัฒนาทรัพยากรบุคคล",
+  "description": "ตัวชี้วัดย่อยที่ 4 การบริหารและพัฒนาทรัพยากรบุคคล ได้แก่ การบริหารและพัฒนาทรัพยากรบุคคล",
+  "source": "@site/docs/OITNo9/sub4.md",
+  "sourceDirName": "OITNo9",
+  "slug": "/OITNo9/sub4",
+  "permalink": "/docs/OITNo9/sub4",
+  "editUrl": "https://github.com/marutpun/oitnanong/edit/main/website/docs/OITNo9/sub4.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "การบริหารเงินงบประมาณ",
+    "permalink": "/docs/OITNo9/sub3"
+  },
+  "next": {
+    "title": "การส่งเสริมความโปร่งใส",
+    "permalink": "/docs/OITNo9/sub5"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "OIT โรงเรียนวัดนาหนอง",
+        "href": "/docs/intro"
+      },
+      {
+        "type": "category",
+        "label": "ตัวชี้วัดย่อยที่ 9",
+        "items": [
+          {
+            "type": "link",
+            "label": "ข้อมูลพื้นฐาน",
+            "href": "/docs/OITNo9/sub1"
+          },
+          {
+            "type": "link",
+            "label": "การบริหารงาน",
+            "href": "/docs/OITNo9/sub2"
+          },
+          {
+            "type": "link",
+            "label": "การบริหารเงินงบประมาณ",
+            "href": "/docs/OITNo9/sub3"
+          },
+          {
+            "type": "link",
+            "label": "การบริหารและพัฒนาทรัพยากรบุคคล",
+            "href": "/docs/OITNo9/sub4"
+          },
+          {
+            "type": "link",
+            "label": "การส่งเสริมความโปร่งใส",
+            "href": "/docs/OITNo9/sub5"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "ตัวชี้วัดย่อยที่ 10",
+        "items": [
+          {
+            "type": "link",
+            "label": "การป้องกันการทุจริต",
+            "href": "/docs/OITNo10/sub1"
+          },
+          {
+            "type": "link",
+            "label": "มาตรการภายในเพื่อป้องกันการทุจริต",
+            "href": "/docs/OITNo10/sub2"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "OITNo9/oitno9sub3",
+  "id": "OITNo9/oitno9sub3",
+  "isDocsHomePage": false,
+  "title": "การบริหารเงินงบประมาณ",
+  "description": "ตัวชี้วัดย่อยที่ 3 การบริหารเงินงบประมาณ ได้แก่ แผนการใช้จ่ายงบประมาณประจำปี และการจัดซื้อจัดจ้างหรือการจัดหาพัสดุ",
+  "source": "@site/docs/OITNo9/oitno9sub3.md",
+  "sourceDirName": "OITNo9",
+  "slug": "/OITNo9/oitno9sub3",
+  "permalink": "/docs/OITNo9/oitno9sub3",
+  "editUrl": "https://github.com/marutpun/oitwatnanong/edit/main/website/docs/OITNo9/oitno9sub3.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "การบริหารงาน",
+    "permalink": "/docs/OITNo9/sub2"
+  },
+  "next": {
+    "title": "การบริหารและพัฒนาทรัพยากรบุคคล",
+    "permalink": "/docs/OITNo9/oitno9sub4"
+  }
+}

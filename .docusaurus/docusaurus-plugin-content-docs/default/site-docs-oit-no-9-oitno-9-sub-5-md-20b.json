@@ -1,0 +1,27 @@
+{
+  "unversionedId": "OITNo9/oitno9sub5",
+  "id": "OITNo9/oitno9sub5",
+  "isDocsHomePage": false,
+  "title": "การส่งเสริมความโปร่งใส",
+  "description": "ตัวชี้วัดย่อยที่ 5 การส่งเสริมความโปร่งใส ได้แก่ การจัดการเรื่องร้องเรียนการทุจริตและประพฤติมิชอบ และการเปิดโอกาสให้เกิดการมีส่วนร่วม",
+  "source": "@site/docs/OITNo9/oitno9sub5.md",
+  "sourceDirName": "OITNo9",
+  "slug": "/OITNo9/oitno9sub5",
+  "permalink": "/docs/OITNo9/oitno9sub5",
+  "editUrl": "https://github.com/marutpun/oitwatnanong/edit/main/website/docs/OITNo9/oitno9sub5.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "การบริหารและพัฒนาทรัพยากรบุคคล",
+    "permalink": "/docs/OITNo9/sub4"
+  },
+  "next": {
+    "title": "การป้องกันการทุจริต",
+    "permalink": "/docs/oitno10/oitno1intro"
+  }
+}
