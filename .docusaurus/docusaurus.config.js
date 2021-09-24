@@ -20,7 +20,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "C:\\Users\\marut.punsakorn\\Desktop\\oitnanong\\sidebars.js",
-          "editUrl": "https://github.com/marutpun/oitnanong/edit/main/website/"
+          "editUrl": "https://github.com/marutpun/oitnanong/edit/master"
         },
         "blog": false,
         "theme": {
